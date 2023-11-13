@@ -1,0 +1,130 @@
+{
+    "banners": [
+        {
+            "id": 1,
+            "imageUrl": "https://picsum.photos/id/23/393/165"
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://picsum.photos/id/26/393/165"
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://picsum.photos/id/60/393/165"
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://picsum.photos/id/63/393/165"
+        }
+    ],
+    "horizontalProducts": [
+        {
+            "id": 1,
+            "imageUrl": "https://picsum.photos/id/96/500/500",
+            "title": "축구공",
+            "discount": "Coupon",
+            "originalPrice": 80000,
+            "discountPrice": 60000
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://picsum.photos/id/133/500/500",
+            "title": "PlayStation",
+            "discount": "Coupon",
+            "originalPrice": 3200,
+            "discountPrice": 1500
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://picsum.photos/id/175/500/500",
+            "title": "Nintendo Switch",
+            "discount": "Coupon",
+            "originalPrice": 70000,
+            "discountPrice": 35000
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://picsum.photos/id/225/500/500",
+            "title": "맥북 프로 13인치 2023년형",
+            "discount": "Coupon",
+            "originalPrice": 120000,
+            "discountPrice": 99000
+        },
+        {
+            "id": 5,
+            "imageUrl": "https://picsum.photos/id/248/500/500",
+            "title": "아이폰 15Pro max",
+            "discount": "Coupon",
+            "originalPrice": 10000,
+            "discountPrice": 6300
+        },
+        {
+            "id": 6,
+            "imageUrl": "https://picsum.photos/id/250/500/500",
+            "title": "아이폰 15Pro",
+            "discount": "Coupon",
+            "originalPrice": 22000,
+            "discountPrice": 13000
+        },
+        {
+            "id": 7,
+            "imageUrl": "https://picsum.photos/id/312/500/500",
+            "title": "아이스 라떼",
+            "discount": "Coupon",
+            "originalPrice": 5000,
+            "discountPrice": 4400
+        }
+    ],
+    "verticalProducts": [
+        {
+            "id": 1,
+            "imageUrl": "https://picsum.photos/id/97/500/500",
+            "title": "Product Title 1",
+            "discount": "Coupon",
+            "originalPrice": 63000,
+            "discountPrice": 55000
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://picsum.photos/id/134/500/500",
+            "title": "Product Title 2",
+            "discount": "Coupon",
+            "originalPrice": 2200,
+            "discountPrice": 1400
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://picsum.photos/id/176/500/500",
+            "title": "Product Title 3",
+            "discount": "Coupon",
+            "originalPrice": 60000,
+            "discountPrice": 12000
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://picsum.photos/id/265/500/500",
+            "title": "Product Title 4",
+            "discount": "Coupon",
+            "originalPrice": 230000,
+            "discountPrice": 87000
+        }
+    ],
+    "themes": [
+        {
+            "id": 1,
+            "imageUrl": "https://picsum.photos/id/24/286/142"
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://picsum.photos/id/25/286/142"
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://picsum.photos/id/61/286/142"
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://picsum.photos/id/64/286/142"
+        }
+    ]
+}
